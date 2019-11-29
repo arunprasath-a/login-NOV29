@@ -1,0 +1,9 @@
+.footer-mat-toolbar {
+  height: 30px;
+  width: 100%;
+  display: block;
+}
+
+.footer-content {
+  text-align: right;
+}

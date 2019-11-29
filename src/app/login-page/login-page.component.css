@@ -1,0 +1,50 @@
+* {
+  box-sizing: border-box;
+}
+
+footer {
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+}
+
+body {
+  background-color: aquamarine;
+}
+
+.main {
+  width: 100%;
+  margin-top: 40px;
+  /* position: absolute; */
+  /* margin-left: 885px; */
+}
+
+.left {
+  float: left;
+  display: block;
+  width: 50%;
+  box-sizing: border-box;
+  margin-top: 100px;
+  /* background-image: url('./../../../../leftb1.png'); */
+}
+
+.right {
+  float: left;
+  display: block;
+  width: 50%;
+  box-sizing: border-box;
+  margin-top: 100px;
+}
+
+.r-content {
+  margin-top: 20px;
+  width: 60%;
+}
+
+.inp {
+  width: 100%;
+}
+
+.btn-submit {
+  float: right;
+}
